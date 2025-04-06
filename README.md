@@ -1,7 +1,7 @@
-I’m @CaioCastro1, a 19 year old engineering student from Escola Politécnica - USP
-I’m interested in Data Analytics, Automation and Machine Learning
-I’m currently learning Python libraries like Pandas, Matplotlibn Scikit Learn and requests
-I’m looking to collaborate on Data Analysis Projects, specially in exploratory analysis and data classification/prediction
+I’m @CaioCastro1, a 20 year old engineering student from Escola Politécnica - USP and Intern at Lastro
+I’m interested in Data Analytics, Automation, Machine Learning and Generative AI
+I’m looking to collaborate on Data Analysis Projects, specially in exploratory analysis and data classification/prediction. 
+I'm also eager to learn about product development and entrepeneurship.  
 You can reach me on my Linkedin www.linkedin.com/in/caio-castropj
 
 <!---
